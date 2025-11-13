@@ -73,9 +73,6 @@ Full-stack social media application replicating core Instagram features
 - **Tech:** Ruby on Rails, PostgreSQL
 - **Features:** User authentication, photo posting, following system, likes, responsive design
 
-## 📊 GitHub Stats
-
-![Emilio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emilioaguirre7&show_icons=true&theme=radical)
 
 ## 🎓 Education
 **University of Texas Rio Grande Valley** - Bachelor of Science in Computer Science (Expected 2025)  
