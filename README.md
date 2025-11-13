@@ -75,7 +75,7 @@ Full-stack social media application replicating core Instagram features
 
 
 ## 🎓 Education
-**University of Texas Rio Grande Valley** - Bachelor of Science in Computer Science (Expected 2025)  
+**University of Texas Rio Grande Valley** - Bachelor of Science in Computer Science (2025)  
 **South Texas College** - Associates in Interdisciplinary Studies (2019)
 
 ---
