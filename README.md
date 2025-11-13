@@ -1,7 +1,7 @@
 # Hi 👋 I'm Emilio Aguirre
 
 ## 🌍 About Me
-Computer Science student at the University of Texas Rio Grande Valley, specializing in full-stack development, mobile applications, and cloud computing. I build robust, real-world solutions using modern tech stacks.
+Computer Science graduate at the University of Texas Rio Grande Valley, specializing in full-stack development, mobile applications, and cloud computing. I build robust, real-world solutions using modern tech stacks.
 
 ## 🚀 Current Projects
 - 📊 **MarketPulse** - AI-powered stock sentiment dashboard with real-time data and VADER analysis
