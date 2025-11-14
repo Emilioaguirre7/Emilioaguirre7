@@ -1,7 +1,7 @@
 # Hi 👋 I'm Emilio Aguirre
 
 ## 🌍 About Me
-Computer Science graduate at the University of Texas Rio Grande Valley, specializing in full-stack development, mobile applications, and cloud computing. I build robust, real-world solutions using modern tech stacks.
+Computer Science graduate experienced in software development across web, mobile, and cloud platforms. Proven ability to build production-ready applications with modern technologies including React, Next.js, FastAPI, and Flutter. Bilingual in English and Spanish. Experience delivering complete solutions from concept to deployment using Agile methodologies.
 
 ## 🚀 Current Projects
 - 📊 **MarketPulse** - AI-powered stock sentiment dashboard with real-time data and VADER analysis
