@@ -22,16 +22,11 @@ Stock sentiment analysis platform with **Python ETL pipelines** and **NLP**.
 
 ---
 
-## Other Projects
+## Additional Experience
 
 **Sports Chat+ • [Live Demo](https://sportschatplus-8239d.web.app)**  
-Real-time NCAA chat application  
-React, Azure SQL, Firebase - Team capstone project  
-*Code repository no longer maintained*
-
-**[Homebrew Dripper](https://github.com/Emilioaguirre7/homebrew-dripper)**  
-Mobile coffee brewing timer  
-Flutter/Dart
+Real-time NCAA chat application - Team capstone project  
+React, Azure SQL, Firebase
 
 ---
 
@@ -48,3 +43,22 @@ Flutter/Dart
 📍 **McAllen, TX** • Open to relocation  
 📧 emilioaguirre701@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/emilio-aguirre-a58623267)
+```
+
+---
+
+## **IF YOU'RE WORRIED ABOUT "EMPTY" GITHUB:**
+
+### **Option 1: Add Small Learning Projects** (Quick Wins)
+
+**These show you're actively learning:**
+
+**A. LeetCode Solutions Repo**
+```
+leetcode-practice/
+├── sql/
+│   ├── easy/
+│   └── medium/
+└── python/
+    ├── arrays/
+    └── strings/
