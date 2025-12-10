@@ -44,21 +44,3 @@ React, Azure SQL, Firebase
 📧 emilioaguirre701@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/emilio-aguirre-a58623267)
 ```
-
----
-
-## **IF YOU'RE WORRIED ABOUT "EMPTY" GITHUB:**
-
-### **Option 1: Add Small Learning Projects** (Quick Wins)
-
-**These show you're actively learning:**
-
-**A. LeetCode Solutions Repo**
-```
-leetcode-practice/
-├── sql/
-│   ├── easy/
-│   └── medium/
-└── python/
-    ├── arrays/
-    └── strings/
