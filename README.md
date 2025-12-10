@@ -43,4 +43,3 @@ React, Azure SQL, Firebase
 📍 **McAllen, TX** • Open to relocation  
 📧 emilioaguirre701@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/emilio-aguirre-a58623267)
-```
